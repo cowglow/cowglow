@@ -1,3 +1,5 @@
-### Servus! 👋
+# Servus! 👋
+### Frontend Coder. Embracing Modern Development Practices
+### Hilpoltstein, Bavaria, Germany
 
-Frontend Coder. Embracing Modern Development Practices
+[about.cowglow.com](https://about.cowglow.com)
